@@ -1,0 +1,11 @@
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\bin\Debug\netcoreapp2.0\CSharpAdoNet.deps.json
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\bin\Debug\netcoreapp2.0\CSharpAdoNet.runtimeconfig.json
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\bin\Debug\netcoreapp2.0\CSharpAdoNet.runtimeconfig.dev.json
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\bin\Debug\netcoreapp2.0\CSharpAdoNet.dll
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.csprojResolveAssemblyReference.cache
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.csproj.CoreCompileInputs.cache
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.AssemblyInfoInputs.cache
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.AssemblyInfo.cs
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\bin\Debug\netcoreapp2.0\CSharpAdoNet.pdb
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.dll
+C:\Projeto ASPNET\SchoolOfNet\C# ADO\CSharpAdoNet\CSharpAdoNet\obj\Debug\netcoreapp2.0\CSharpAdoNet.pdb
